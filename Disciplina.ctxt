@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment0.text=\r\n\ Classe\ que\ representa\ a\ idea\ de\ uma\ disciplina\r\n\ \r\n\ @author\ Andr\u00E9\ Cavalcanti\ Teles\ dos\ Santos,Jo\u00E3o\ Marcos\ Ribeirete\ Garbelini,Mateus\ Neves\ Er\u00E9dia,Vitor\ Assun\u00E7\u00E3o\ Silva\r\n\ @version\ 4.1\ -\ 21/05/2023\r\n
+comment1.params=disciplina\ nota
+comment1.target=Disciplina(java.lang.String,\ float)
+comment1.text=\r\n\ Construtor\ dos\ objetos\ desta\ classe\ (disciplina)\r\n
+comment2.params=disciplina
+comment2.target=void\ setDisciplina(java.lang.String)
+comment3.params=nota
+comment3.target=void\ setNota(float)
+comment4.params=
+comment4.target=java.lang.String\ getDisciplina()
+comment5.params=
+comment5.target=float\ getNota()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

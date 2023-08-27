@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Interface
+comment0.text=\r\n\ Interface\ do\ programa,assinaturas\ dos\ metodos\ utilizados\ no\ codigo\r\n\ \r\n\ @author\ Andr\u00E9\ Cavalcanti\ Teles\ dos\ Santos,Jo\u00E3o\ Marcos\ Ribeirete\ Garbelini,Mateus\ Neves\ Er\u00E9dia,Vitor\ Assun\u00E7\u00E3o\ Silva\ \r\n\ @version\ 4.1\ -\ 21/05/2023\r\n
+comment1.params=
+comment1.target=int\ lerOpcao()
+comment2.params=
+comment2.target=int\ lerIdade()
+comment3.params=
+comment3.target=int\ lerTotalDisciplinas()
+comment4.params=
+comment4.target=float\ lerNota()
+comment5.params=
+comment5.target=int\ lerAno()
+comment6.params=
+comment6.target=java.lang.String\ lerNome()
+comment7.params=
+comment7.target=java.lang.String\ lerRA()
+comment8.params=
+comment8.target=java.lang.String\ lerRemover()
+comment9.params=
+comment9.target=java.lang.String\ lerDisciplina()
+numComments=10

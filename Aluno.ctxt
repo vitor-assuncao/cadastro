@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Classe\ que\ representa\ o\ conceito\ de\ um\ aluno.\r\n\ \r\n\ @author\ Andr\u00E9\ Cavalcanti\ Teles\ dos\ Santos,Jo\u00E3o\ Marcos\ Ribeirete\ Garbelini,Mateus\ Neves\ Er\u00E9dia,Vitor\ Assun\u00E7\u00E3o\ Silva\r\n\ @version\ 4.1\ -\ 21/05/2023\r\n
+comment1.params=nome\ idade\ ra\ serie\ disc
+comment1.target=Aluno(java.lang.String,\ int,\ java.lang.String,\ int,\ Disciplina[])
+comment1.text=\r\n\ Aluno\ Construtor\ para\ montar\ dados\ do\ aluno\r\n\r\n\ @param\ nome\ String,\ nome\ \r\n\ @param\ idade\ int,\ idade\ \r\n\ @param\ ra\ String,\ ra\ \r\n\ @param\ serie\ int,\ serie\ \r\n\ @param\ disc\ array\ de\ Disciplinas\r\n
+comment2.params=ra
+comment2.target=void\ setRa(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getRa()
+comment4.params=
+comment4.target=int\ getSerie()
+comment5.params=serie
+comment5.target=void\ setSerie(int)
+comment6.params=disc
+comment6.target=void\ setDisciplina(Disciplina[])
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
